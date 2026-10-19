@@ -1,0 +1,82 @@
+# DCF
+
+[All model tabs](README.md#view-the-model-online) · [Download original workbook](RedBull.FinancialModel.xlsx) · [CSV data](05-DCF.csv)
+
+**Saved Base-case preview.** Figures do not recalculate here. Use Excel for formulas, charts and scenario changes.
+
+USD billions, except shares in billions and per-share amounts. FY ends 31 March.
+
+| Line item | E |
+| --- | --- |
+| Selected case | Base |
+| WACC | 11.5% |
+| Terminal growth | 3.0% |
+| Elapsed years from June 30 | 0.296 |
+| Target years from June 30 | 1.296 |
+| Opening cash plus short investments | 3.888 |
+| Known July acquisition | 0.265 |
+| Net financial debt | 0.000 |
+| Equity investments recovered | 0.294 |
+| Diluted shares | 1.080 |
+
+| Line item | Q2 FY27E | Q3 FY27E | Q4 FY27E | Q1 FY28E | Q2 FY28E | Q3 FY28E | Q4 FY28E | FY2029E | FY2030E | FY2031E | FY2032E | FY2033E | FY2034E | FY2035E | FY2036E |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Period duration | 0.250 | 0.250 | 0.250 | 0.250 | 0.250 | 0.250 | 0.250 | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 |
+| Period start in years | 0.000 | 0.250 | 0.500 | 0.750 | 1.000 | 1.250 | 1.500 | 1.750 | 2.750 | 3.750 | 4.750 | 5.750 | 6.750 | 7.750 | 8.750 |
+| Period end in years | 0.250 | 0.500 | 0.750 | 1.000 | 1.250 | 1.500 | 1.750 | 2.750 | 3.750 | 4.750 | 5.750 | 6.750 | 7.750 | 8.750 | 9.750 |
+| Economic FCFF | -0.025 | 0.061 | 0.099 | 0.290 | 0.226 | 0.195 | 0.230 | 2.084 | 3.408 | 4.980 | 6.778 | 8.108 | 9.238 | 10.368 | 11.498 |
+| Financing difference versus economic FCFF | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 |
+| Net economic cash accrual | -0.025 | 0.061 | 0.099 | 0.290 | 0.226 | 0.195 | 0.230 | 2.084 | 3.408 | 4.980 | 6.778 | 8.108 | 9.238 | 10.368 | 11.498 |
+| Fraction elapsed at reference date | 1.000 | 0.184 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 |
+| Fraction elapsed at target date | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 | 0.184 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 |
+| PV factor at reference date | 1.005 | 0.978 | 0.952 | 0.926 | 0.901 | 0.877 | 0.854 | 0.766 | 0.687 | 0.616 | 0.552 | 0.495 | 0.444 | 0.398 | 0.357 |
+| PV factor at target date | 1.121 | 1.090 | 1.061 | 1.033 | 1.005 | 0.978 | 0.952 | 0.854 | 0.766 | 0.687 | 0.616 | 0.552 | 0.495 | 0.444 | 0.398 |
+| PV of remaining FCFF today | 0.000 | 0.049 | 0.095 | 0.269 | 0.204 | 0.171 | 0.196 | 1.596 | 2.340 | 3.067 | 3.743 | 4.016 | 4.104 | 4.131 | 4.108 |
+| PV of remaining FCFF at target | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.156 | 0.219 | 1.779 | 2.609 | 3.419 | 4.174 | 4.478 | 4.576 | 4.606 | 4.581 |
+| Accrued cash through reference date | -0.025 | 0.011 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 |
+| Accrued cash through target date | -0.025 | 0.061 | 0.099 | 0.290 | 0.226 | 0.036 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 |
+| Base FCFF slope to proportional revenue | -1.018 | 0.061 | 0.099 | 0.290 | 0.226 | 0.195 | 0.230 | 2.084 | 3.408 | 4.980 | 6.778 | 8.108 | 9.238 | 10.368 | 11.498 |
+| Revenue slope of current equity value | -1.018 | 0.060 | 0.095 | 0.269 | 0.204 | 0.171 | 0.196 | 1.596 | 2.340 | 3.067 | 3.743 | 4.016 | 4.104 | 4.131 | 4.108 |
+
+| Line item | E |
+| --- | --- |
+| Final-year NOPAT | 14.178 |
+| Terminal reinvestment rate | 10.0% |
+| Terminal FCFF | 13.143 |
+| Terminal enterprise value | 154.621 |
+| PV explicit FCFF today | 28.088 |
+| PV terminal value today | 55.249 |
+| Current enterprise value | 83.338 |
+| Cash at reference date | 3.609 |
+| Current equity value | 87.242 |
+| Current DCF per share | $80.78 |
+| PV explicit FCFF at target | 30.596 |
+| PV terminal value at target | 61.603 |
+| Target-date enterprise value | 92.199 |
+| Cash at target date | 4.311 |
+| Target-date equity value | 96.805 |
+| Target-date DCF per share | $89.63 |
+| Terminal share of enterprise value | 66.8% |
+| Revenue scale equity-value slope | 82.331 |
+| Price-implied revenue multiplier | 2.929 |
+| Implied FY31 revenue | 73.215 |
+
+DCF horizon is October 2027; forecasts continue to FY2036 to value cash flows beyond the holding period.
+
+Quarterly periods use 0.25 years. Cash accrues pro rata. The acquisition is paid before the reference date and deducted once.
+
+Terminal FCFF uses g / ROIC reinvestment, replacing explicit capex and working-capital ratios in the mature state.
+
+Reverse DCF scales all future revenue while retaining period margins and capital intensity. It is a conditional hurdle, not literal consensus.
+
+11.5% base WACC is an analyst equity hurdle. Sensitivity tests cover 9%-13%; it is not an estimated CAPM beta.
+
+## Target-date DCF sensitivity to WACC and terminal growth
+
+| E | F | G | H |
+| --- | --- | --- | --- |
+| 89.634 | 2.0% | 3.0% | 4.0% |
+| 9.0% | $122.52 | $134.24 | $150.56 |
+| 10.0% | $104.56 | $112.44 | $122.88 |
+| 11.5% | $85.01 | $89.63 | $95.45 |
+| 13.0% | $71.05 | $73.92 | $77.40 |

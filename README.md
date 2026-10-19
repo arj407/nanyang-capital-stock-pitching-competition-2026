@@ -13,18 +13,18 @@ Download the Excel file and open it in Microsoft Excel to explore the model. The
 
 ## View the model online
 
-Open a tab below to view its figures directly on GitHub without downloading Excel. These CSV previews show the **saved Base-case results**, with dates, percentages and currencies formatted for reading. Column letters and Excel row numbers let you trace figures to the original workbook; completely empty rows and columns are omitted.
+Open a tab below to view its figures directly on GitHub without downloading Excel. These formatted tab previews show the **saved Base-case results**, with dates, percentages and currencies formatted for reading. Notes sit outside the tables for easier reading. Each tab also links to a CSV export with original Excel row numbers and column letters.
 
-- [Summary](01-Summary.csv)
-- [Assumptions](02-Assumptions.csv)
-- [Operating](03-Operating.csv)
-- [Statements](04-Statements.csv)
-- [DCF](05-DCF.csv)
-- [Comps](06-Comps.csv)
-- [Short return](07-Short-return.csv)
-- [Historical](08-Historical.csv)
-- [Sources](09-Sources.csv)
-- [Checks](10-Checks.csv)
+- [Summary](01-Summary.md)
+- [Assumptions](02-Assumptions.md)
+- [Operating](03-Operating.md)
+- [Statements](04-Statements.md)
+- [DCF](05-DCF.md)
+- [Comps](06-Comps.md)
+- [Short return](07-Short-return.md)
+- [Historical](08-Historical.md)
+- [Sources](09-Sources.md)
+- [Checks](10-Checks.md)
 
 The previews are static: they do not recalculate, switch scenarios or include Excel charts. Assumptions lists the Bear, Base and Bull inputs, but calculated outputs show the saved Base case. Use the original Excel workbook for formulas, charts and live scenario analysis. Refresh these previews whenever the workbook changes.
 
