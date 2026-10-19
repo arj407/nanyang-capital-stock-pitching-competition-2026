@@ -1,0 +1,33 @@
+Excel row,C,E,F,G,H,I
+2,Short return,,,,,
+3,"USD billions, except shares in billions and per-share amounts. FY ends 31 March.",,,,,
+4,Selected case,Base,,,,
+8,Reference price,$227.80,,,,
+9,Exit target,$125.00,,,,
+10,Annual borrow rate,6.0%,,,,
+11,Holding years,1.000,,,,
+12,Dividends paid per share,$0.00,,,,
+13,Gross profit per share,$102.80,,,,
+14,Borrow cost per share,$13.67,,,,
+15,Net profit per share,$89.13,,,,
+16,Return on initial notional,39.1%,,,,
+17,Break-even exit price,$214.13,,,,
+18,Initial collateral,$113.90,,,,
+19,Simple return on collateral,78.3%,,,,
+20,Collateral XIRR,75.3%,,,,
+24,,Date,Cash flow ($),,,
+25,,16-Oct-2026,$-113.90,,,
+26,,16-Jan-2027,$-3.42,,,
+27,,16-Apr-2027,$-3.42,,,
+28,,16-Jul-2027,$-3.42,,,
+29,,16-Oct-2027,$213.28,,,
+32,Net short return by exit price and annual borrow fee,,,,,
+34,,,3.0%,6.0%,12.0%,20.0%
+35,$125 target,$125.00,42.1%,39.1%,33.1%,25.1%
+36,No price change,$227.80,-3.0%,-6.0%,-12.0%,-20.0%
+37,Active-case DCF,$89.63,57.7%,54.7%,48.7%,40.7%
+38,Bull report reference,$346.89,-55.3%,-58.3%,-64.3%,-72.3%
+41,"The bull report reference is fixed from the report, not a live second forecast. Select case 3 to see the current bull DCF.",,,,,
+42,"Collateral XIRR assumes 50% initial margin, restricted sale proceeds, quarterly fees and no margin calls. It is not a quoted broker return.",,,,,
+43,"Borrow can be recalled and repriced. Commissions, taxes, interest and rebates are excluded. Short losses are unbounded.",,,,,
+44,An actual flat share price loses the borrow cost. Positive base-case value does not remove timing and execution risk.,,,,,
